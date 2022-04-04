@@ -1,6 +1,14 @@
 <!--suppress ALL -->
 
 <p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"
+    ><img
+      src="https://github-profile-trophy.vercel.app/?username=dkorunic&column=-1"
+      alt="dkorunic"
+  /></a>
+</p>
+
+<p align="center">
   <a
     ><img
       src="https://github-readme-stats.vercel.app/api?username=dkorunic&show_icons=true&count_private=true"
@@ -8,7 +16,15 @@
   /></a>
 </p>
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=dkorunic&show_icons=true&locale=en&layout=compact"
+    alt="dkorunic"
+  />
+</p>
+
 <h3 align="center">Follow me on social media</h3>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/dkorunic/" target="blank">
     <img
