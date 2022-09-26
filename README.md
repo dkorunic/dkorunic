@@ -16,13 +16,6 @@
   /></a>
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=dkorunic&show_icons=true&locale=en&layout=compact"
-    alt="dkorunic"
-  />
-</p>
-
 <h3 align="center">Follow me on social media</h3>
 
 <p align="center">
