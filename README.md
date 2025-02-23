@@ -19,39 +19,39 @@
 <h3 align="center">Follow me on social media</h3>
 
 <p align="center">
+  <a href="https://bsky.app/profile/dkorunic.net" target="blank">
+    <img
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/bluesky.svg"
+      alt="dkorunic"
+      height="30"
+      width="30"
+    />
+  </a>
+
+  <a href="https://x.com/dkorunic" target="blank">
+    <img
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/x.svg"
+      alt="dkorunic"
+      height="30"
+      width="30"
+    />
+  </a>
+
+  <a href="https://mastodon.cloud/@dkorunic" target="blank">
+    <img
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/mastodon.svg"
+      alt="dkorunic"
+      height="30"
+      width="30"
+    />
+  </a>
+
   <a href="https://www.linkedin.com/in/dkorunic/" target="blank">
     <img
-      src="https://cdn.jsdelivr.net/npm/simple-icons@6.16.0/icons/linkedin.svg"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/linkedin.svg"
       alt="dkorunic"
       height="30"
       width="30"
-    />
-  </a>
-
-  <a href="https://twitter.com/dkorunic" target="blank">
-    <img
-      src="https://cdn.jsdelivr.net/npm/simple-icons@6.16.0/icons/twitter.svg"
-      alt="dkorunic"
-      height="30"
-      width="30"
-    />
-  </a>
-
-  <a href="https://www.instagram.com/dkorunic/" target="blank">
-    <img
-      src="https://cdn.jsdelivr.net/npm/simple-icons@6.16.0/icons/instagram.svg"
-      alt="dkorunic"
-      height="30"
-      width="30"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/intent/follow?screen_name=dkorunic">
-    <img
-      src="https://img.shields.io/twitter/follow/dkorunic?logo=twitter"
-      alt="dkorunic"
     />
   </a>
 </p>
