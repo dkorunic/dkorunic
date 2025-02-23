@@ -48,7 +48,7 @@
 
   <a href="https://www.linkedin.com/in/dkorunic/" target="blank">
     <img
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/linkedin.svg"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg"
       alt="dkorunic"
       height="30"
       width="30"
