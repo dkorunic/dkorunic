@@ -2,7 +2,7 @@
 
 Systems engineer and security practitioner based in **Zagreb, Croatia**. Currently
 **Principal Cloud Architect** at [**HAProxy Technologies**](https://www.haproxy.com/) and
-**Executive Product Manager** at [Crossvallia](https://crossvallia.com/).
+**Executive Product Manager** at [Crossvallia](https://crossvallia.hr/).
 
 Over the last 20+ years I have worked as a security advisor and systems integrator, with a
 focus on Linux internals, high-availability infrastructure, observability and network
