@@ -1,4 +1,4 @@
-name: Sort projects
+name: Sync and sort projects
 
 on:
   schedule:
@@ -20,5 +20,5 @@ jobs:
           git diff --quiet && exit 0
           git config user.name "github-actions[bot]"
           git config user.email "41898333+github-actions[bot]@users.noreply.github.com"
-          git commit -am "Order selected projects by stars and forks."
+          git commit -am "Sync selected projects with GitHub descriptions, stars and forks."
           git push
